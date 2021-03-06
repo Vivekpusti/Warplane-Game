@@ -9,3 +9,9 @@ screenshot of game gets starts:-
 
 screenshot of when game gets over:-
 ![](endimage.png)
+
+
+## Contribution
+•Created By- Vivek Pusti
+•email-vivekpusti1999@gmail.com
+•Linkedln-vivek-pusti
