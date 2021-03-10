@@ -12,6 +12,6 @@ screenshot of when game gets over:-
 
 
 ## Contribution
-•Created By- Vivek Pusti
+•CreatedBy- Vivek Pusti
  •Email-vivekpusti1999@gmail.com
     •Linkedln-vivek-pusti
