@@ -9,7 +9,6 @@ screenshot of when game gets over:-
 ![](endimage.png)
 
 
-## Contribution
-•CreatedBy- Vivek Pusti
+
  •Email-vivekpusti1999@gmail.com
     •Linkedln-vivek-pusti
